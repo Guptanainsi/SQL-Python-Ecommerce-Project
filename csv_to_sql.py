@@ -9,7 +9,7 @@ csv_files = [
     ('sellers.csv', 'sellers'),
     ('products.csv', 'products'),
     ('geolocation.csv', 'geolocation'),
-    ('payments.csv', 'payments')  # Added payments.csv for specific handling
+    ('payments.csv', 'payments'), # Added payments.csv for specific handling
     ('order_items.csv', 'order_items')
 ]
 
